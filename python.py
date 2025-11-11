@@ -20,3 +20,4 @@ github=it is a cloud based service that store my code'''
 # 16) git remote <link of repo> ("this is use to connect to push local code to github")
 # 17) git ignore me jo file hogi wo ignore ho jayegi git se 
 # 18) .gitkeep ("se wo jo file ignore ho rhi thi use bhi upload kara sakte hai ")
+#add data 
