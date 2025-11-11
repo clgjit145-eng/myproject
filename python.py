@@ -19,4 +19,5 @@ github=it is a cloud based service that store my code'''
 # 15) git config --global user.email "<your_email>"  ("this is to add email to git")
 # 16) git remote <link of repo> ("this is use to connect to push local code to github")
 # 17) git ignore me jo file hogi wo ignore ho jayegi git se 
+"""hello"""
 # 18) .gitkeep ("se wo jo file ignore ho rhi thi use bhi upload kara sakte hai ")
