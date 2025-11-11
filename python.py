@@ -1,5 +1,5 @@
 print("hello word")
-print("hello jit")
+print("hello jit aaabbbbbbbbbbcccccccccccccc")
 '''git=this is a version control system it use to create check point to your code 
 github=it is a cloud based service that store my code'''
 '''commands '''
@@ -19,4 +19,4 @@ github=it is a cloud based service that store my code'''
 # 15) git config --global user.email "<your_email>"  ("this is to add email to git")
 # 16) git remote <link of repo> ("this is use to connect to push local code to github")
 # 17) git ignore me jo file hogi wo ignore ho jayegi git se 
-# 18) .gitkeep ("se wo jo file ignore ho rhi thi use bhi upload kara sakte hai "
+# 18) .gitkeep ("se wo jo file ignore ho rhi thi use bhi upload kara sakte hai ")
